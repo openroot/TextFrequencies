@@ -68,7 +68,7 @@
             this.splitContainer1.Panel2.Controls.Add(this.splitContainer2);
             this.splitContainer1.Panel2.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.splitContainer1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.splitContainer1.Size = new System.Drawing.Size(1211, 400);
+            this.splitContainer1.Size = new System.Drawing.Size(1211, 401);
             this.splitContainer1.SplitterDistance = 908;
             this.splitContainer1.TabIndex = 0;
             this.splitContainer1.TabStop = false;
@@ -88,7 +88,7 @@
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox1.Size = new System.Drawing.Size(908, 400);
+            this.textBox1.Size = new System.Drawing.Size(908, 401);
             this.textBox1.TabIndex = 0;
             this.textBox1.TabStop = false;
             // 
@@ -108,7 +108,7 @@
             // splitContainer2.Panel2
             // 
             this.splitContainer2.Panel2.BackColor = System.Drawing.Color.Bisque;
-            this.splitContainer2.Size = new System.Drawing.Size(299, 400);
+            this.splitContainer2.Size = new System.Drawing.Size(299, 401);
             this.splitContainer2.SplitterDistance = 87;
             this.splitContainer2.TabIndex = 0;
             this.splitContainer2.TabStop = false;
@@ -221,7 +221,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Bisque;
-            this.ClientSize = new System.Drawing.Size(1211, 400);
+            this.ClientSize = new System.Drawing.Size(1211, 401);
             this.Controls.Add(this.splitContainer1);
             this.Name = "Form1";
             this.Text = "Form1";
