@@ -102,7 +102,7 @@
             // 
             this.splitContainer2.Panel2.BackColor = System.Drawing.Color.Bisque;
             this.splitContainer2.Size = new System.Drawing.Size(196, 400);
-            this.splitContainer2.SplitterDistance = 100;
+            this.splitContainer2.SplitterDistance = 84;
             this.splitContainer2.TabIndex = 0;
             // 
             // flowLayoutPanel1
@@ -116,7 +116,7 @@
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(196, 100);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(196, 84);
             this.flowLayoutPanel1.TabIndex = 0;
             // 
             // button1
