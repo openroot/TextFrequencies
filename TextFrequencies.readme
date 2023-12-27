@@ -1,0 +1,55 @@
+
+radian ( খাতা ) =[
+a.1. space ( দিস্তা ) + tab ( রুল টানা )  :  copy ( খাতা )
+a.2. character ( পৃষ্ঠা ) - copy : cover ( মলাট )
+a.3. word ( সুতো )
+
+b.1. sentence
+b.2. paragraph
+b.3. punctuation
+
+c.1. symbols unrecognized
+c.2. probable errors
+c.3. emphasized word
+]
+
+
+theta ( পেন্সিল ) =[
+x.1. character reverse
+x.2. word reverse
+x.3. sentence reverse
+
+y.1. frequency of word
+y.2.
+y.3.
+
+z.1.
+z.2.
+z.3.
+]
+
+
+k ( বই ) =[
+r.1.
+r.2.
+r.3.
+
+s.1.
+s.2.
+s.3.
+
+t.1.
+t.2.
+t.3.
+]
+
+====================================
+TODO :
+1. It will need a highlighter tab.
+2. It will need twelve more buttons.
+
+NOTE :
+1. That খাতা has Rack etc. etc.
+2. That পেন্সিল has Box etc. etc.
+3. That বই has Bag etc. etc.
+====================================
