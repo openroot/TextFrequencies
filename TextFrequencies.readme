@@ -1,27 +1,27 @@
 
 radian ( খাতা ) =[
-a.1. space ( দিস্তা ) + tab ( রুল টানা )  :  copy ( খাতা )
-a.2. character ( পৃষ্ঠা ) - copy : cover ( মলাট )
-a.3. word ( সুতো )
+a.1. number of space ( দিস্তা ) + tab ( রুল টানা )  :  copy ( খাতা )
+a.2. number of character ( পৃষ্ঠা ) - copy : cover ( মলাট )
+a.3. number of word ( সুতো )
 
-b.1. sentence
-b.2. paragraph
-b.3. punctuation
+b.1. range of sentence
+b.2. range of paragraph
+b.3. range of punctuation
 
-c.1. symbols unrecognized
-c.2. probable errors
-c.3. emphasized word
+c.1. modulus of symbols unrecognized ( ব্যাস )
+c.2. modulus of probable errors ( চাপ  )
+c.3. modulus of emphasized word ( সেট )
 ]
 
 
 theta ( পেন্সিল ) =[
-x.1. character reverse
-x.2. word reverse
-x.3. sentence reverse
+x.1. character reverse ( ভাজ্য )
+x.2. word reverse ( অংক )
+x.3. sentence reverse ( চাঁদা )
 
 y.1. frequency of word
-y.2.
-y.3.
+y.2. frequency of consecutive
+y.3. frequency of character
 
 z.1.
 z.2.
